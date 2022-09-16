@@ -1,0 +1,6 @@
+@import url(../src/styles/css/Variables.css);
+
+.body {
+  color: var(--text-color);
+  font-family: var(--font-header-footer);
+}
